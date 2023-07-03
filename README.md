@@ -9,6 +9,6 @@ Each row in the dataset represents a single earthquake event, including details 
 
 <h3>Code Environment</h3>
 
-You can run the code on google colab notebook after importing the libraries as mentioned in the code.The Earthquake_Data file needs to be uploaded before running the code.In case the path changes, we need to modify it in the line </n>
-df = pd.read_csv('/content/Earthquake_Data.csv'
+You can run the code on google colab notebook after importing the libraries as mentioned in the code.The Earthquake_Data file needs to be uploaded before running the code.In case the path changes, we need to modify it in the line 
+</n> df = pd.read_csv('/content/Earthquake_Data.csv')
 
