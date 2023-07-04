@@ -1,5 +1,4 @@
-# Earthquake_Pred
-
+# Tectonic_Tracker
 Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research. This project aims to predict the magnitude and probability of earthquakes occurring in a particular region, specifically California, United States, using machine learning models.
 
 <h3>Dataset</h3>
